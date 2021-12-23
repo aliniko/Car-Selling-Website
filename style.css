@@ -19,6 +19,11 @@
     transition: background-image 1s;
 }
 
+.logo{
+    width: 200px;
+    height: 45px;
+}
+
 nav{
     position: fixed;
     top: 0;
